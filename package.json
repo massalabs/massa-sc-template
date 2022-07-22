@@ -10,10 +10,10 @@
     "clean": "massa-sc-scripts clean"
   },
   "dependencies": {
-    "assemblyscript": "^0.19.20",
+    "assemblyscript": "^0.19.23",
     "json-as": "^0.2.6",
     "massa-sc-scripts": "4.0.3",
-    "massa-sc-std": "3.1.2",
-    "visitor-as": "^0.6.0"
+    "massa-sc-std": "4.0.0",
+    "visitor-as": "^0.8.0"
   }
 }
